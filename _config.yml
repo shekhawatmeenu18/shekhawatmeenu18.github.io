@@ -2,7 +2,7 @@ title:              Shekhawat Blog
 email:              shekhawatmeenu18@gmail.com
 description:        Blogs and data science work of Meenu Shekhawat!
 author:             Shekhawat_Meenu
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+baseurl:            ""
 url:                "https://shekhawatmeenu18.github.io"
 
 # Social Profiles
